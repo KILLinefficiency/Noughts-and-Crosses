@@ -1,6 +1,7 @@
 // For Windows Users:- Find and replace "clear" with "cls"
 
 #include <iostream>
+#include <cstdlib>
 
 char board[3][3] = {
   {'-', '-', '-'},
